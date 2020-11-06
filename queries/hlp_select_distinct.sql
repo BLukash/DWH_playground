@@ -1,0 +1,1 @@
+SELECT DISTINCT VendorID FROM bohdan_lukashchuk_schema.fact_tripdata

@@ -1,0 +1,1 @@
+SELECT TOP 1000 * FROM bohdan_lukashchuk_schema.yellow_tripdata_2020_01

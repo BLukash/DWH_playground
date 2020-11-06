@@ -1,0 +1,1 @@
+DROP EXTERNAL TABLE bohdan_lukashchuk_schema.yellow_tripdata_2020_01
